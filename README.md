@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there!   👋
 
-<!--
-**urasinskipawel/urasinskipawel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm is Paweł Urasiński from Poland. I'm a self-taught programmer who is going to become a future javascript developer. I am very interested in this language and technologies related to it, so I create projects to develop in this direction
 
-Here are some ideas to get you started:
+I am open to job offers that will enable me to learn and develop.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm a Husband, Father and Sport enthusiast !!
+
+- 🌱 I’m currently learning everything Typescript, MySql, Express
+- 🥅 2022 Goals: Get a job as a Junior Javascript Developer
+- ⚡ Fun fact: I love to play volleyball
+
+## Connect with me:
+
+
+## Languages and Tools:
+
+
