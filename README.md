@@ -1,14 +1,16 @@
-## Hi there!   👋
+## Hi there! 👋
 
-I'm is Paweł Urasiński from Poland. I'm a self-taught programmer who is going to become a future Javascript developer. I am very interested in this language and technologies related to it, so I create projects to develop in this direction.
+I'm Paweł Urasiński from Poland. I'm a self-taught programmer who is going to become a future JavaScript Developer. I'm very interested in this language and technologies related to it, so I create projects to develop in this direction.
 
-I am open to job offers that will enable me to learn and develop.
+I'm open to job offers that will enable me to learn new things and develop myself.
 
-## I'm a Husband, Father and Sport enthusiast !!
+## About me:
 
-- 🌱 I’m currently learning everything Typescript, MySql, Express
-- 🥅 2022 Goals: Get a job as a Junior Javascript Developer
-- ⚡ Fun fact: I love to play volleyball
+- 💪 I'm not afraid of new challenges, and failures motivate me twice
+- ✍️ Currently I'm learning Typescript, MySql, Express
+- 🥅 My main goal  is to find a job as a Junior JavaScript Developer in the near future
+- 👪 I'm a husband and father of a wonderful family
+- 🏐 I'm a great sports enthusiast especially volleyball
 
 ## Contact me:
 
@@ -30,6 +32,6 @@ I am open to job offers that will enable me to learn and develop.
 <img align="left" alt="MySQL" title ="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
 [facebook]: https://facebook.com/uras.pawel
-[linkedin]: www.linkedin.com/in/paweł-urasiński
+[linkedin]: https://www.linkedin.com/in/pawe%C5%82-urasi%C5%84ski
 [github]: https://github.com/urasinskipawel
 
