@@ -7,7 +7,7 @@ I'm open to job offers that will enable me to learn new things and develop mysel
 ## About me:
 
 - 💪 I'm not afraid of new challenges, and failures motivate me twice
-- ✍️ Currently I'm learning Typescript, MySql, Express
+- ✍️ Currently I'm learning ReactJS and NestJS
 - 🥅 My main goal  is to find a job as a Junior JavaScript Developer in the near future
 - 👪 I'm a husband and father of a wonderful family
 - 🏐 I'm a great sports enthusiast especially volleyball
@@ -26,9 +26,10 @@ I'm open to job offers that will enable me to learn new things and develop mysel
 <img align="left" alt="HTML5" title ="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS3" title ="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="JavaScript" title ="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="React.js" title ="React.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="left" alt="Node.js" title ="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="left" alt="Express" title ="Express.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
-<img align="left" alt="MongoDB" title ="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+<img align="left" alt="Express.js" title ="Express.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+<img align="left" alt="Nest.js" title ="Nest.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/>
 <img align="left" alt="MySQL" title ="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
 [facebook]: https://facebook.com/uras.pawel
